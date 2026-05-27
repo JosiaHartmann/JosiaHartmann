@@ -8,3 +8,8 @@
     </a>
   </p>
 </div>
+<h2 align="left">My website</h2>
+<div align="left">
+  <a href="https://hartmannz.de"><img src="https://hartmannz.de/img/ganzes_logo2.png" width="200px"/></a>
+  <a href="https://spiele.hartmannz.de"><img src="https://spiele.hartmannz.de/img/jogames.png" width="200px"/></a>
+</div>
